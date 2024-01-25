@@ -4,4 +4,7 @@
 https://sahil-578.github.io/Javascript-Beginner-Projects/Basic%20Shopping%20List%20(DOM)
 
 # Check It Out : Color Flipper
-https://sahil-578.github.io/Javascript-Beginner-Projects/
+https://sahil-578.github.io/Javascript-Beginner-Projects/flip%20the%20color
+
+# Check It Out : Counter
+https://sahil-578.github.io/Javascript-Beginner-Projects/counter
