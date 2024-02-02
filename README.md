@@ -11,3 +11,6 @@ https://sahil-578.github.io/Javascript-Beginner-Projects/counter
 
 # Check It Out : Drum Kit
 https://sahil-578.github.io/Javascript-Beginner-Projects/Drum%20Kit%20Project
+
+# Check It Out : Dice Challenge Project
+https://sahil-578.github.io/Javascript-Beginner-Projects/Dicee%20Challenge%20Project
