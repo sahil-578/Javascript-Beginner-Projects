@@ -8,3 +8,6 @@ https://sahil-578.github.io/Javascript-Beginner-Projects/flip%20the%20color
 
 # Check It Out : Counter
 https://sahil-578.github.io/Javascript-Beginner-Projects/counter
+
+# Check It Out : Drum Kit
+https://sahil-578.github.io/Javascript-Beginner-Projects/Drum%20Kit%20Project
